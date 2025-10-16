@@ -18,3 +18,4 @@ Genesis Panjaitan:
 - Buat controller
 - Buat model
 - Buat migration
+
